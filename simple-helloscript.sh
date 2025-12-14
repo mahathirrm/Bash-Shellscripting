@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "My name is Mahathir"
+echo "Hello This is my first script"
